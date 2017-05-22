@@ -20,7 +20,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.hamnaberg.json</groupId>
   <artifactId>immutable-json-jaxrs</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Immutable JSON :: JAXRS</name>
   <description>Immutable JSON</description>
