@@ -20,7 +20,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.hamnaberg.json</groupId>
   <artifactId>immutable-json-jaxrs</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
   <name>Immutable JSON :: JAXRS</name>
   <description>Immutable JSON</description>
@@ -31,7 +31,7 @@
     <url>https://github.com/hamnis/immutable-json-jaxrs</url>
     <connection>scm:git:https://hamnis@github.com/hamnis/immutable-json-jaxrs.git</connection>
     <developerConnection>scm:git:git@github.com:hamnis/immutable-json-jaxrs.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v1.0</tag>
   </scm>
 
   <issueManagement>
